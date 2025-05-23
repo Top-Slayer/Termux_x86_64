@@ -28,4 +28,8 @@ else
 	echo "$0 img <n>"
 	echo "$0 setup <iso>"
 	echo "$0 boot"
+ echo "Example:"
+ echo "- $0 img 3G"
+ echo "- $0 setup alpine.iso"
+ echo "- $0 boot"
 fi
